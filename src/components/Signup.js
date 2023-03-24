@@ -37,8 +37,6 @@ function handleSubmit(event){
     }
 }
 
-
-
   return (
     <>
       <div className="form-container">
@@ -80,9 +78,6 @@ function handleSubmit(event){
         <label>I want to join newsletter</label>
 
         <button className="form--submit">Submit</button>
-
-
-
 
         </form>
       </div>

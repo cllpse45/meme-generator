@@ -95,7 +95,7 @@ function Form() {
       <label>Freelance</label>
 
       <br />
-
+    <label>Whats your favorite brand?</label>
       <select value={select} onChange={handleSelect} name="favBrand">
         <option value="bmw">BMV</option>
         <option value="mercedes">Mercedes</option>
