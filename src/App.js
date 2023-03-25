@@ -7,14 +7,14 @@ import Form from './components/Form';
 import Signup from './components/Signup';
 import Ternary from './components/Ternary';
 import UseEffect from './components/UseEffect';
+import Input from './components/input';
 
 function App() {
   return (
     <div className="App">
       <Navbar />
       <Meme />
-      
-      
+      <Input type="text"/>
       
      {/*
       <Counter />
